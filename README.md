@@ -1,0 +1,1 @@
+Para rodar os arquivos só precisa executar o comando <code>http-server</code> na pasta raiz.
